@@ -11,6 +11,8 @@ library(tidyverse)
 library(fpp3)
 library(grid)
 library(gridExtra)
+library(forecast)
+library(tseries)
 ```
 
 # 1. Exploratory data analysis
